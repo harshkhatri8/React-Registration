@@ -1,0 +1,12 @@
+
+    {
+        "tailwindCSS.includeLanguages": {
+            "javascript": "javascript",
+            "html": "HTML"
+        },
+       "editor.quickSuggestions": {
+           "strings": true
+        },
+        "editor.fontFamily": "Poppins, 'Courier New', monospace\"",
+        "editor.fontSize": 13
+    }
